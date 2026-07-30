@@ -1,5 +1,8 @@
 ### 用 Python + Flet 制作的轮播图效果，通过点击不同的按钮来切换不同的图片
 
+flet version：0.85.3
+
+
 设计来源：
 
 [Python Flet Image Slider Tutorial | Create a Modern Carousel UI](https://www.youtube.com/watch?v=Vbu1UAaoJxw)
