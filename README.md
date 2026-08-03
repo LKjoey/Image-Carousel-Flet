@@ -6,7 +6,7 @@ flet version：0.85.3
 
 ### 1.图片轮播
 
-![1.gif](https://github.com/LKjoey/Image-Carousel-Flet/tree/main/gif)
+![1.gif](https://github.com/LKjoey/Image-Carousel-Flet/blob/main/gif/1.gif)
 
 
 
